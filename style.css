@@ -1,0 +1,197 @@
+#navbar{
+    display: flex;
+    gap: 180px;
+    margin-top: 20px;
+}
+
+
+#search{
+    border: solid;
+    border-radius: 45px;
+    padding: 15px;
+    width: 350px;
+    background-color: rgb(253, 220, 209);
+    height: 50px;
+    margin-top: 20px;
+}
+#sign {
+    border: solid;
+    border-radius: 35px;
+    padding: 15px;
+    width: 120px;
+    -webkit-text-fill-color: white;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    height: 25px;
+
+}
+#text{
+    border: solid;
+    border-radius: 15px;
+    padding: 15px;
+    width: 200px;
+}
+#words{
+    font-size: xx-large;
+}
+#course{
+    margin-left: 200px;
+}
+#student{
+    display: flex;
+    gap: 400px;
+    padding: 50px;
+}
+#container{
+    background-color: rgb(253, 220, 209);
+    border-radius: 15px;
+    
+    
+}
+#statistics{
+display: flex;
+font-size: xx-large;
+gap: 250px;
+background-color: white;
+
+}
+
+#heros{
+    width: 450px;
+    height: 450px;
+    margin-top: 20px;
+}  
+
+
+
+#search{
+    border: solid;
+    border-radius: 45px;
+    padding: 15px;
+    width: 350px;
+    background-color: rgb(253, 220, 209);
+    height: 50px;
+    margin-top: 20px;
+}
+#sign {
+    border: solid;
+    border-radius: 35px;
+    padding: 15px;
+    width: 120px;
+    -webkit-text-fill-color: white;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    height: 25px;
+
+}
+#text{
+    border: solid;
+    border-radius: 15px;
+    padding: 15px;
+    width: 200px;
+}
+#words{
+    font-size:200 ;
+}
+#course{
+    margin-left: 10%;
+}
+#student{
+    display: flex;
+    gap: 400px;
+    padding: 50px;
+}
+#container{
+    background-color: rgb(253, 220, 209);
+    border-radius: 15px;
+    
+    
+}
+#statistics{
+display: flex;
+font-size: xx-large;
+gap: 250px;
+background-color: white;
+
+}
+
+#heros{
+    width: 450px;
+    height: 450px;
+}
+
+    
+
+@media only screen and (min-width: 393px)and(max-width:851px){
+   
+    #navbar{
+        display: flex;
+        gap: 180px;
+        margin-top: 20%;
+    }
+    
+    
+    #search{
+        border: solid;
+        border-radius: 5px;
+        padding: 5px;
+        width:50px;
+        background-color: rgb(253, 220, 209);
+        height: 40px;
+        margin-top: 20%;
+    }
+    #sign {
+        border: solid;
+        border-radius: 35px;
+        padding: 15px;
+        width: 120px;
+        -webkit-text-fill-color: white;
+        background-color: black;
+        color: white;
+        margin-top: 20px;
+        height: 25px;
+    
+    }
+    #text{
+        border: solid;
+        border-radius: 5px;
+        padding: 5px;
+        width: 10%;
+    }
+    #words{
+        font-size: xx-large;
+    }
+    #course{
+        margin-left: 200%;
+    }
+    #student{
+        display: flex;
+        gap: 400px;
+        padding: 50px;
+    }
+    #container{
+        background-color: rgb(253, 220, 209);
+        border-radius: 15px;
+        
+        
+    }
+    #statistics{
+    display: flex;
+    font-size: xx-large;
+    gap: 250px;
+    background-color: white;
+    
+    }
+    
+    #heros{
+        width: 450px;
+        height: 450px;
+        margin-top: 20%;
+    }
+   
+}
+    
+    
+     
